@@ -1,5 +1,15 @@
 # Getting Started with Create React App
 
+TODO MACHINE
+Aplicacion para hacer lista de tareas
+
+1. Poder crear tareas o TODOS
+2. Poder ver todos los todos
+3. Poder buscar las tareas
+4. Poder marcar como completadas las tareas
+5. Poder contar cuantos todos hay y cuantos hemos completado
+6. Poder Borrar tareas
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
