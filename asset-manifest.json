@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/listadetareas-reactapp/index.html/static/css/main.95bdb328.css",
-    "main.js": "/listadetareas-reactapp/index.html/static/js/main.737cbbf4.js",
-    "index.html": "/listadetareas-reactapp/index.html/index.html",
-    "main.95bdb328.css.map": "/listadetareas-reactapp/index.html/static/css/main.95bdb328.css.map",
-    "main.737cbbf4.js.map": "/listadetareas-reactapp/index.html/static/js/main.737cbbf4.js.map"
+    "main.css": "./static/css/main.95bdb328.css",
+    "main.js": "./static/js/main.737cbbf4.js",
+    "index.html": "./index.html",
+    "main.95bdb328.css.map": "./static/css/main.95bdb328.css.map",
+    "main.737cbbf4.js.map": "./static/js/main.737cbbf4.js.map"
   },
   "entrypoints": [
     "static/css/main.95bdb328.css",
